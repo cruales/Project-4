@@ -13,4 +13,4 @@ public interface AttackerController
 	public void init(Game game);
 	public int update(Game game, long timeDue);
 	public void shutdown(Game game);
-}
+} //comment for test
